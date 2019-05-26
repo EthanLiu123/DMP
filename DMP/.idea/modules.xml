@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DMP.iml" filepath="$PROJECT_DIR$/DMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProDMP/ProDMP.iml" filepath="$PROJECT_DIR$/ProDMP/ProDMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebDMP/WebDMP.iml" filepath="$PROJECT_DIR$/WebDMP/WebDMP.iml" />
+    </modules>
+  </component>
+</project>

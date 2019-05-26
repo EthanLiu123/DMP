@@ -8,9 +8,8 @@ import realTimeInsert.ImproveData
 import tools.{ContantsSchema, DBUtils, DataUtils, GlobalConfigUtils}
 
 object App {
-  //kudu的master
-  val KUDU_MASTER = GlobalConfigUtils.kuduMaster
 
+  val KUDU_MASTER = GlobalConfigUtils.kuduMaster
   def main(args: Array[String]): Unit = {
     @transient //防止序列化
     val sparkConf = new SparkConf()
