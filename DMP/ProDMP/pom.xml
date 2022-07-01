@@ -24,7 +24,7 @@
         <scala.version>2.11.5</scala.version>
         <scala.v>2.11</scala.v>
         <spark.version>2.1.0</spark.version>
-        <hadoopo.version>2.6.1</hadoopo.version>
+        <hadoopo.version>2.7.0</hadoopo.version>
         <kudu.version>1.6.0-cdh5.14.0</kudu.version>
         <elasticsearch.version>6.0.0</elasticsearch.version>
     </properties>
